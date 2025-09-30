@@ -140,17 +140,3 @@ private fun updateColor() {
     )
 }
 ```
-
-## Kesimpulan
-Jetpack Compose menyederhanakan pengembangan UI Android dengan:
-- Mengurangi boilerplate code
-- Menyediakan reactive programming model
-- Memudahkan state management
-- Meningkatkan type safety
-- Mempercepat development cycle
-
-- ✅ Profile interaktif dengan foto asli
-- ✅ Follow/Unfollow dengan status indicator
-- ✅ Responsive UI dengan Material Design
-- ✅ Scrollable layout untuk menampilkan semua komponen
-# bab3_praktikum_papb
