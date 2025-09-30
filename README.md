@@ -149,19 +149,6 @@ Jetpack Compose menyederhanakan pengembangan UI Android dengan:
 - Meningkatkan type safety
 - Mempercepat development cycle
 
-Untuk kasus state management sederhana seperti counter, toggle, dan status follow, Compose memberikan solusi yang jauh lebih elegant dan maintainable dibandingkan pendekatan XML tradisional.
-
-## Struktur File
-```
-app/src/main/java/com/example/praktikum_bab3/
-├── MainActivity.kt          # File utama berisi semua implementasi
-└── res/drawable/
-    └── foto.jpeg           # Foto profil
-```
-
-## Fitur yang Diimplementasikan
-- ✅ Counter dengan validasi nilai minimum 0
-- ✅ Color toggle box 200x200dp (Merah ↔ Hijau)
 - ✅ Profile interaktif dengan foto asli
 - ✅ Follow/Unfollow dengan status indicator
 - ✅ Responsive UI dengan Material Design
